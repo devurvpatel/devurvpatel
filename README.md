@@ -49,7 +49,7 @@ zero human touchpoints
 
 ### 🎫 AI Customer Support Triage & Automated Ticketing System
 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)]
+[![Repo](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/devurvpatel/n8n-support-triage-ticketing-system)
 
 End-to-end support automation pipeline that classifies tickets 
 by category and urgency, drafts SLA-appropriate responses, logs 
