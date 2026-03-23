@@ -6,7 +6,7 @@
 <p align="left">
   <a href="mailto:urv.patel.dev@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/urv-patel">💼 LinkedIn</a> •
-  <a href="https://huggingface.co/spaces/urvpatel/rag-pipeline-optimizer">🤗 HuggingFace</a>
+  <a href="https://huggingface.co/urvpatel">🤗 HuggingFace</a>
 </p>
 
 ---
