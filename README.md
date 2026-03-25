@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Urv Patel 👋</h1>
 <p align="left">
-  <b>Data Analyst → AI Engineer</b><br>
+  <b>AI Engineer & Data Professional</b><br>
   Bridging traditional analytics with LLM-powered systems, RAG pipelines, and agentic AI workflows
 </p>
 <p align="left">
