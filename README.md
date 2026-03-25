@@ -13,10 +13,9 @@
 
 ## 🧠 What I Do
 
-I'm a Data Analyst with 6 years of experience building automated pipelines, predictive models, and executive-facing analytics — now specializing in AI engineering: RAG systems, LLM-powered automation, and agentic workflows that go beyond reporting toward autonomous decision support.
+I'm an AI Engineer and Data Professional with 5 years of experience. I started in data analytics and now specializing in building production-grade AI systems: Advanced RAG pipelines with MLOps evaluation, QLoRA fine-tuned domain-adapted models, and autonomous multi-agent workflows with LangGraph and LangChain that go beyond reporting toward evaluated, observable decision support.
 
-**Core stack:**
-Python · SQL · LangChain · LangGraph · RAGAS · FastAPI · RAG · Vector Databases · n8n · LLM APIs
+**Core stack:** Python · SQL · LangChain · LangGraph · RAGAS · LangSmith · FastAPI · Advanced RAG · QLoRA Fine-tuning · Vector Databases · n8n · LLM APIs
 
 ---
 
