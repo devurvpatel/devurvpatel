@@ -27,7 +27,7 @@ I'm an AI Engineer and Data Professional with 5 years of experience. I started i
 [![Repo](https://img.shields.io/badge/GitHub-Repo-black?style=flat&logo=github)](https://github.com/devurvpatel/rag-pipeline-optimizer)
 [![Demo](https://img.shields.io/badge/HuggingFace-Live%20Demo-yellow?style=flat&logo=huggingface)](https://huggingface.co/spaces/urvpatel/rag-pipeline-optimizer)
 
-Production-grade benchmarking system that runs 4 RAG pipeline configurations simultaneously, evaluates each pipeline using the RAGAS framework, and uses a LangGraph agent to recommend the optimal configuration for your documents.
+Production-grade benchmarking system that runs 4 RAG pipeline configurations simultaneously, evaluates each pipeline using the RAGAS framework, and uses a LangGraph agent to recommend the optimal configuration for your documents. Deployed via Docker on HuggingFace Spaces with a CI/CD pipeline using GitHub Actions, LangSmith production tracing, and an interactive Streamlit dashboard.
 
 **Stack:** LangChain LCEL · LangGraph · RAGAS · LangSmith · FastAPI + LangServe · ChromaDB · Qdrant · Streamlit · Docker · OpenAI · Cohere · BGE-large embeddings
 
